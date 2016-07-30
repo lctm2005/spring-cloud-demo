@@ -1,6 +1,5 @@
 spring:
   application:
     name: configclient
-
-profiles:
-   active: dev
+  profiles:
+    active: development

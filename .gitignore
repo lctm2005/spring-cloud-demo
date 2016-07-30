@@ -1,2 +1,4 @@
 .idea/
 *.iml
+spring-cloud-config-server-demo/target/
+spring-cloud-config-client-demo/target/
