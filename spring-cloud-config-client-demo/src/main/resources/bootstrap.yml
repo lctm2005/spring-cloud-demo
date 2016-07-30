@@ -1,6 +1,6 @@
 spring:
   application:
-    name: configclinet
+    name: configclient
 
 profiles:
    active: dev
