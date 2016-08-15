@@ -1,2 +1,4 @@
 .idea/
 *.iml
+config-server-demo/target/
+config-client-demo/target/
