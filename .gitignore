@@ -2,3 +2,5 @@
 *.iml
 spring-cloud-config-server-demo/target/
 spring-cloud-config-client-demo/target/
+config-server-demo/target/
+config-client-demo/target/
